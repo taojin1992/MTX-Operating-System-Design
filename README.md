@@ -12,7 +12,7 @@ TO BE DONE
 ```
 
 ## Acknowledge
-The works are done based on the Linux system and C programming language. The whole work designs and simulates a complete file system. I want to specially thank Professor KC Wang for his teaching.
+The work is done based on the Linux system and C programming language. The whole work designs and simulates a complete file system. I want to specially thank Professor KC Wang for his teaching.
 
 
 ```
@@ -21,4 +21,4 @@ The works are done based on the Linux system and C programming language. The who
 The code was implemented based on the book Design and Implementation of the MTX Operating System, K.C. Wang, Springer International AG, 2015. 
 
 ## Acknowledge
-This course is taken in 2017 Fall, it's really an interesting and useful class. It not only helpes me understand the operation systems clearly, but also helps me improve my C programming language skills dramatically .
+This course is taken in 2017 Fall, it's really an interesting and useful class. It not only helps me understand the operating system clearly, but also helps me improve my C programming skills dramatically .
